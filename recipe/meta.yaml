@@ -1,5 +1,5 @@
 {% set name = "napari-hdf5-netcdf-viewer" %}
-{% set version = "0.0.2" %}
+{% set version = "0.1.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-hdf5-netcdf-viewer-{{ version }}.tar.gz
-  sha256: 4714c351966a5203c02e107345e155a7d91119d7f04137435a95912d7cf28cca
+  sha256: 9edac33507aa28c6a9e0480405340745ca968c6bfd80dd8652a6444e5b435f1e
 
 build:
   noarch: python
