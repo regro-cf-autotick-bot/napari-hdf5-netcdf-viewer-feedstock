@@ -39,7 +39,7 @@ about:
   home: https://github.com/yunhal/napari-hdf5-netcdf-viewer
   summary: A napari plugin for quick-viewing HDF5 and NetCDF files
   license: BSD-3-Clause
-  license_file: LICENSE
+  license_file: LICENSE.txt
 
 extra:
   recipe-maintainers:
